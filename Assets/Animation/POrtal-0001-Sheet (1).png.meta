@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: d3bdc2d178ae7b844b96a12bed4e0795
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4797937597180812526
+    second: POrtal-0001-Sheet (1)_0
+  - first:
+      213: 9029475667028647575
+    second: POrtal-0001-Sheet (1)_1
+  - first:
+      213: 2217881246658972334
+    second: POrtal-0001-Sheet (1)_2
+  - first:
+      213: -1247372860085219367
+    second: POrtal-0001-Sheet (1)_3
+  - first:
+      213: -1304962767939375244
+    second: POrtal-0001-Sheet (1)_4
+  - first:
+      213: -1154750892274584463
+    second: POrtal-0001-Sheet (1)_5
+  - first:
+      213: 8118529215573405620
+    second: POrtal-0001-Sheet (1)_6
+  - first:
+      213: -694101210765405429
+    second: POrtal-0001-Sheet (1)_7
+  - first:
+      213: -6476623056056427716
+    second: POrtal-0001-Sheet (1)_8
+  - first:
+      213: -8993974530700610521
+    second: POrtal-0001-Sheet (1)_9
+  - first:
+      213: -2070136298921830822
+    second: POrtal-0001-Sheet (1)_10
+  - first:
+      213: -883709593914966307
+    second: POrtal-0001-Sheet (1)_11
+  - first:
+      213: -8785645524820138953
+    second: POrtal-0001-Sheet (1)_12
+  - first:
+      213: -5896887169591822929
+    second: POrtal-0001-Sheet (1)_13
+  - first:
+      213: -5898966365687798475
+    second: POrtal-0001-Sheet (1)_14
+  - first:
+      213: 1415208258468551879
+    second: POrtal-0001-Sheet (1)_15
+  - first:
+      213: 534304900119573519
+    second: POrtal-0001-Sheet (1)_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3599
+        width: 902
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213eb890d2d4a6db0800000000000000
+      internalID: -4797937597180812526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3599
+        width: 905
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e964967442f4d70800000000000000
+      internalID: 9029475667028647575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 3599
+        width: 906
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaacb153e3f77ce10800000000000000
+      internalID: 2217881246658972334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 3599
+        width: 906
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df482c1ef070bee0800000000000000
+      internalID: -1247372860085219367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 3599
+        width: 902
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fecdbc647d3ede0800000000000000
+      internalID: -1304962767939375244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2397
+        width: 902
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17478ed7e2089ffe0800000000000000
+      internalID: -1154750892274584463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 2397
+        width: 905
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf22e8ce4fcaa070800000000000000
+      internalID: 8118529215573405620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2397
+        width: 906
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d82650ae0e56f0800000000000000
+      internalID: -694101210765405429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2397
+        width: 906
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd6a725a96e16a0800000000000000
+      internalID: -6476623056056427716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 2397
+        width: 902
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fda201dbfe2380800000000000000
+      internalID: -8993974530700610521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1199
+        width: 902
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565f1211066543e0800000000000000
+      internalID: -2070136298921830822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1199
+        width: 905
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef7127ece6cb3f0800000000000000
+      internalID: -883709593914966307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1199
+        width: 906
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734689a81fd131680800000000000000
+      internalID: -8785645524820138953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1199
+        width: 906
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5bbefbc5c0a2ea0800000000000000
+      internalID: -5896887169591822929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 1199
+        width: 902
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a33f2859a22ea0800000000000000
+      internalID: -5898966365687798475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 902
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc9739b964d3a310800000000000000
+      internalID: 1415208258468551879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POrtal-0001-Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 0
+        width: 905
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b06dc97b3a6700800000000000000
+      internalID: 534304900119573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      POrtal-0001-Sheet (1)_3: -1247372860085219367
+      POrtal-0001-Sheet (1)_0: -4797937597180812526
+      POrtal-0001-Sheet (1)_2: 2217881246658972334
+      POrtal-0001-Sheet (1)_13: -5896887169591822929
+      POrtal-0001-Sheet (1)_12: -8785645524820138953
+      POrtal-0001-Sheet (1)_4: -1304962767939375244
+      POrtal-0001-Sheet (1)_7: -694101210765405429
+      POrtal-0001-Sheet (1)_11: -883709593914966307
+      POrtal-0001-Sheet (1)_16: 534304900119573519
+      POrtal-0001-Sheet (1)_5: -1154750892274584463
+      POrtal-0001-Sheet (1)_9: -8993974530700610521
+      POrtal-0001-Sheet (1)_10: -2070136298921830822
+      POrtal-0001-Sheet (1)_14: -5898966365687798475
+      POrtal-0001-Sheet (1)_15: 1415208258468551879
+      POrtal-0001-Sheet (1)_1: 9029475667028647575
+      POrtal-0001-Sheet (1)_8: -6476623056056427716
+      POrtal-0001-Sheet (1)_6: 8118529215573405620
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

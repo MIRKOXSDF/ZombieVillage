@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Logo.unity
+    guid: e5070972947c94f40aa6af891668f64e
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 0caad897a0e105c4a8c11f57de04667e
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 67a38fb0da72fc146af66e04b304b051
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: 734fa1a7e34265b45bad4ec47bcd7dfd
+  - enabled: 1
+    path: Assets/Scenes/controles.unity
+    guid: 7c8c7c07ffc27ff4bb95fa749d4e2a50
+  - enabled: 1
+    path: Assets/Scenes/bruja.unity
+    guid: 4f91ef75d77dcfd4d805d0969e74a5f5
+  - enabled: 1
+    path: Assets/Scenes/nivel1.unity
+    guid: 92a8ae36732a81b468e268fc5b534210
+  - enabled: 1
+    path: Assets/Scenes/Ganastes.unity
+    guid: 4421c25ef95051b4aaf854b6ddc5df63
+  - enabled: 1
+    path: Assets/Scenes/nivel2.unity
+    guid: c93c1cd43bd05a94386f0fb250b942cb
+  - enabled: 1
+    path: Assets/Scenes/nivel3.unity
+    guid: abbe65fa82ebd104280f891785e05908
+  m_configObjects: {}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - coin
+  - coin2
+  - coin3
+  - Ammo
+  - Bullet
+  - Bullet2
+  - Bullet3
+  - door
+  - door2
+  - door3
+  - blockdeath
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - enemybullet
+  - enemybullet2
+  - Score
+  - Bullet4
+  - Ammo4
+  - enemybullet3
+  - ammo
+  - enemy
+  - Bulletaldea
+  - trinche
+  - Bruja
+  - antideath
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
